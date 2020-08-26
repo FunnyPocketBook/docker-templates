@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support/>
+  <Support>https://forums.unraid.net/topic/96221-support-funnypocketbook-firefly-iii/</Support>
   <Project>https://firefly-iii.org/</Project>
   <Overview>"Firefly III" is a (self-hosted) manager for your personal finances. It can help you keep track of your expenses and income, so you can spend less and save more. Firefly III supports the use of budgets, categories and tags. Using a bunch of external tools, you can import data. It also has many neat financial reports available.&#xD;
 &#xD;
@@ -19,7 +19,7 @@ Additional environment variables can be found under https://github.com/firefly-i
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1598453020</DateInstalled>
+  <DateInstalled>1598454246</DateInstalled>
   <DonateText/>
   <DonateLink/>
   <Description>"Firefly III" is a (self-hosted) manager for your personal finances. It can help you keep track of your expenses and income, so you can spend less and save more. Firefly III supports the use of budgets, categories and tags. Using a bunch of external tools, you can import data. It also has many neat financial reports available.&#xD;
