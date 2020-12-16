@@ -40,7 +40,7 @@
     </Variable>
     <Variable>
       <Value>http://192.168.0.10:8080</Value>
-      <Name>FIREFLY_III_URI</Name>
+      <Name>FIREFLY_III_URL</Name>
       <Mode/>
     </Variable>
     <Variable>
@@ -51,7 +51,7 @@
   </Environment>
   <Labels/>
   <Config Name="FIREFLY_III_ACCESS_TOKEN" Target="FIREFLY_III_ACCESS_TOKEN" Default="" Mode="" Description="Container Variable: FIREFLY_III_ACCESS_TOKEN - Personal Access Token" Type="Variable" Display="always" Required="true" Mask="false"/>
-  <Config Name="FIREFLY_III_URI" Target="FIREFLY_III_URI" Default="" Mode="" Description="Container Variable: FIREFLY_III_URI - URI of Firefly-III instance" Type="Variable" Display="always" Required="true" Mask="false"/>
+  <Config Name="FIREFLY_III_URL" Target="FIREFLY_III_URL" Default="" Mode="" Description="Container Variable: FIREFLY_III_URL - URL of Firefly-III instance" Type="Variable" Display="always" Required="true" Mask="false"/>
   <Config Name="YNAB_API_CODE" Target="YNAB_API_CODE" Default="" Mode="" Description="Container Variable: YNAB_API_CODE" Type="Variable" Display="always" Required="true" Mask="false"/>
   <Config Name="Port" Target="80" Default="" Mode="tcp" Description="Container Port: 80" Type="Port" Display="always" Required="false" Mask="false">8081</Config>
 </Container>
