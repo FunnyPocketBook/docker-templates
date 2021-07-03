@@ -15,7 +15,7 @@ Additional environment variables can be found under https://github.com/firefly-i
   <Category>Productivity:</Category>
   <WebUI>http://[IP]:[PORT:8080]/</WebUI>
   <TemplateURL/>
-  <Icon>https://camo.githubusercontent.com/729d179402476b1dd9de4ec9f5fa5910e6bf56aa/68747470733a2f2f66697265666c792d6969692e6f72672f7374617469632f696d672f6c6f676f2d736d616c6c2d6e65772e706e67</Icon>
+  <Icon>https://www.firefly-iii.org/assets/logo/color.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
